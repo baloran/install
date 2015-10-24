@@ -1,7 +1,7 @@
 # Installation files
 
 ## Summary
-- [Docker Ubuntu](###ubuntu-docker-install)
+- [Docker Ubuntu](#ubuntu-docker-install)
 
 ### Ubuntu Docker install
 
